@@ -1,0 +1,2 @@
+# discuz_demo
+Discuz_2nd_plugin_step_by_step
